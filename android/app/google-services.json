@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "273035496832",
+    "project_id": "mindease-c12aa",
+    "storage_bucket": "mindease-c12aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273035496832:android:28cc566daeed9e38684565",
+        "android_client_info": {
+          "package_name": "com.example.mindease"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "273035496832-o4ae6eo9bd8pjf8cdcmfn4h0unm70ijk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBd0iTqTe3pOWiNBb7wpAt84DWQwdMPF24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "273035496832-o4ae6eo9bd8pjf8cdcmfn4h0unm70ijk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
